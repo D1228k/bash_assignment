@@ -32,6 +32,24 @@ Enter IP like:
 
 ### **## Screenshots**
 
+### **### ARP Output**
+
+### **!\[ARP](./screenshots/arp.png)**
+
+
+
+
+
+
+
+### **### Nmap Output**
+
+### **!\[Nmap](./screenshots/nmap.png)**
+
+
+
+
+
 ### 
 
 ### **### Ping Output**
@@ -39,14 +57,4 @@ Enter IP like:
 ### **!\[Ping](./screenshots/ping.png)**
 
 ### 
-
-### **### ARP Output**
-
-### **!\[ARP](./screenshots/arp.png)**
-
-### 
-
-### **### Nmap Output**
-
-### **!\[Nmap](./screenshots/nmap.png)**
 
