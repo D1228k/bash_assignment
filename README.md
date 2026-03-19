@@ -28,3 +28,25 @@ python nmap\_scanner.py
 Enter IP like:
 127.0.0.1
 
+
+
+### **## Screenshots**
+
+
+
+\### Ping Output
+
+!\[Ping](screenshots/ping.png)
+
+
+
+\### ARP Output
+
+!\[ARP](screenshots/arp.png)
+
+
+
+\### Nmap Output
+
+!\[Nmap](screenshots/nmap.png)
+
