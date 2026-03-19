@@ -32,21 +32,21 @@ Enter IP like:
 
 ### **## Screenshots**
 
+### 
 
+### **### Ping Output**
 
-\### Ping Output
+### **!\[Ping](./screenshots/ping.png)**
 
-!\[Ping](screenshots/ping.png)
+### 
 
+### **### ARP Output**
 
+### **!\[ARP](./screenshots/arp.png)**
 
-\### ARP Output
+### 
 
-!\[ARP](screenshots/arp.png)
+### **### Nmap Output**
 
-
-
-\### Nmap Output
-
-!\[Nmap](screenshots/nmap.png)
+### **!\[Nmap](./screenshots/nmap.png)**
 
