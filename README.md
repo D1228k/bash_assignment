@@ -32,29 +32,21 @@ Enter IP like:
 
 ### **## Screenshots**
 
-### **### ARP Output**
-
-### **!\[ARP](./screenshots/arp.png)**
-
-
-
-
-
-
-
-### **### Nmap Output**
-
-### **!\[Nmap](./screenshots/nmap.png)**
-
-
-
-
-
 ### 
 
 ### **### Ping Output**
 
-### **!\[Ping](./screenshots/ping.png)**
+### **!\[Ping](https://github.com/D1228k/bash\_assignment/blob/master/screenshots/ping.png)**
 
 ### 
+
+### **### ARP Output**
+
+### **!\[ARP](https://github.com/D1228k/bash\_assignment/blob/master/screenshots/arp.png)**
+
+### 
+
+### **### Nmap Output**
+
+### **!\[Nmap](https://github.com/D1228k/bash\_assignment/blob/master/screenshots/nmap.png)**
 
