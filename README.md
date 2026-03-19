@@ -36,17 +36,17 @@ Enter IP like:
 
 ### **### Ping Output**
 
-### **<img src="https://github.com/D1228k/bash\_assignment/raw/master/screenshots/ping.png" width="600">**
+### **<img src="https://github.com/D1228k/bash_assignment/raw/master/screenshots/ping.png" width="600">**
 
 ### 
 
 ### **### ARP Output**
 
-### **<img src="https://github.com/D1228k/bash\_assignment/raw/master/screenshots/arp.png" width="600">**
+### **<img src="https://github.com/D1228k/bash_assignment/raw/master/screenshots/arp.png" width="600">>**
 
 ### 
 
 ### **### Nmap Output**
 
-### **<img src="https://github.com/D1228k/bash\_assignment/raw/master/screenshots/nmap.png" width="600">**
+### **<img src="https://github.com/D1228k/bash_assignment/raw/master/screenshots/nmap.png" width="600">**
 
